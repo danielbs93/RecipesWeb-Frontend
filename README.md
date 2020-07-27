@@ -1,6 +1,6 @@
 # Recipes web by Daniel & Eran
 
-ID's: 204554166, 203818729
+Client Side
 
 # Frontend Client
 Developed using Vue.js & Nodejs
